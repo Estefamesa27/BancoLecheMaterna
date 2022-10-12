@@ -1,0 +1,81 @@
+C:\Users\MAURICIO SANCHEZ\OneDrive\Escritorio\2022.1\Programacion 2\Lechematerna2\Lechematerna2\bin\Debug\Lechematerna2.exe.config
+C:\Users\MAURICIO SANCHEZ\OneDrive\Escritorio\2022.1\Programacion 2\Lechematerna2\Lechematerna2\bin\Debug\Lechematerna2.exe
+C:\Users\MAURICIO SANCHEZ\OneDrive\Escritorio\2022.1\Programacion 2\Lechematerna2\Lechematerna2\bin\Debug\Lechematerna2.pdb
+C:\Users\MAURICIO SANCHEZ\OneDrive\Escritorio\2022.1\Programacion 2\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.csproj.AssemblyReference.cache
+C:\Users\MAURICIO SANCHEZ\OneDrive\Escritorio\2022.1\Programacion 2\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.csproj.SuggestedBindingRedirects.cache
+C:\Users\MAURICIO SANCHEZ\OneDrive\Escritorio\2022.1\Programacion 2\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.Inicio.resources
+C:\Users\MAURICIO SANCHEZ\OneDrive\Escritorio\2022.1\Programacion 2\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.Properties.Resources.resources
+C:\Users\MAURICIO SANCHEZ\OneDrive\Escritorio\2022.1\Programacion 2\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.csproj.GenerateResource.cache
+C:\Users\MAURICIO SANCHEZ\OneDrive\Escritorio\2022.1\Programacion 2\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.csproj.CoreCompileInputs.cache
+C:\Users\MAURICIO SANCHEZ\OneDrive\Escritorio\2022.1\Programacion 2\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.exe
+C:\Users\MAURICIO SANCHEZ\OneDrive\Escritorio\2022.1\Programacion 2\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.pdb
+C:\Users\MAURICIO SANCHEZ\OneDrive\Escritorio\2022.1\Programacion 2\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.DatosMadre.resources
+C:\Users\MAURICIO SANCHEZ\OneDrive\Escritorio\2022.1\Programacion 2\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.Datos_Donacion.resources
+d:\Users\estefania\Desktop\Lechematerna2\Lechematerna2\bin\Debug\Lechematerna2.exe.config
+d:\Users\estefania\Desktop\Lechematerna2\Lechematerna2\bin\Debug\Lechematerna2.exe
+d:\Users\estefania\Desktop\Lechematerna2\Lechematerna2\bin\Debug\Lechematerna2.pdb
+d:\Users\estefania\Desktop\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.csproj.AssemblyReference.cache
+d:\Users\estefania\Desktop\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.csproj.SuggestedBindingRedirects.cache
+d:\Users\estefania\Desktop\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.DatosMadre.resources
+d:\Users\estefania\Desktop\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.Datos_Donacion.resources
+d:\Users\estefania\Desktop\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.Inicio.resources
+d:\Users\estefania\Desktop\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.Properties.Resources.resources
+d:\Users\estefania\Desktop\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.csproj.GenerateResource.cache
+d:\Users\estefania\Desktop\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.csproj.CoreCompileInputs.cache
+d:\Users\estefania\Desktop\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.exe
+d:\Users\estefania\Desktop\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.pdb
+C:\Users\valentina\Downloads\Lechematerna2\Lechematerna2\Lechematerna2\bin\Debug\Lechematerna2.exe.config
+C:\Users\valentina\Downloads\Lechematerna2\Lechematerna2\Lechematerna2\bin\Debug\Lechematerna2.exe
+C:\Users\valentina\Downloads\Lechematerna2\Lechematerna2\Lechematerna2\bin\Debug\Lechematerna2.pdb
+C:\Users\valentina\Downloads\Lechematerna2\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.csproj.AssemblyReference.cache
+C:\Users\valentina\Downloads\Lechematerna2\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.Properties.Resources.resources
+C:\Users\valentina\Downloads\Lechematerna2\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.csproj.GenerateResource.cache
+C:\Users\valentina\Downloads\Lechematerna2\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.csproj.CoreCompileInputs.cache
+C:\Users\valentina\Downloads\Lechematerna2\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.exe
+C:\Users\valentina\Downloads\Lechematerna2\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.pdb
+C:\Users\valentina\Downloads\Lechematerna2\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.FrmDatosMadre.resources
+C:\Users\valentina\Downloads\Lechematerna2\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.FrmDatosDonacion.resources
+C:\Users\valentina\Downloads\Lechematerna2\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.FrmListaOpciones.resources
+C:\Users\valentina\Downloads\Lechematerna2\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.FrmIniciarPrograma.resources
+D:\Programación II\Lechematerna2\Lechematerna2\bin\Debug\Lechematerna2.exe.config
+D:\Programación II\Lechematerna2\Lechematerna2\bin\Debug\Lechematerna2.exe
+D:\Programación II\Lechematerna2\Lechematerna2\bin\Debug\Lechematerna2.pdb
+D:\Programación II\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.csproj.AssemblyReference.cache
+D:\Programación II\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.FrmDatosMadre.resources
+D:\Programación II\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.FrmDatosDonacion.resources
+D:\Programación II\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.FrmListaOpciones.resources
+D:\Programación II\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.FrmIniciarPrograma.resources
+D:\Programación II\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.Properties.Resources.resources
+D:\Programación II\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.csproj.GenerateResource.cache
+D:\Programación II\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.csproj.CoreCompileInputs.cache
+D:\Programación II\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.exe
+D:\Programación II\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.pdb
+F:\Programación II\Lechematerna2\Lechematerna2\bin\Debug\Lechematerna2.exe.config
+F:\Programación II\Lechematerna2\Lechematerna2\bin\Debug\Lechematerna2.exe
+F:\Programación II\Lechematerna2\Lechematerna2\bin\Debug\Lechematerna2.pdb
+F:\Programación II\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.csproj.AssemblyReference.cache
+F:\Programación II\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.csproj.SuggestedBindingRedirects.cache
+F:\Programación II\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.FrmDatosMadre.resources
+F:\Programación II\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.FrmDatosDonacion.resources
+F:\Programación II\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.FrmListaOpciones.resources
+F:\Programación II\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.FrmIniciarPrograma.resources
+F:\Programación II\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.Properties.Resources.resources
+F:\Programación II\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.csproj.GenerateResource.cache
+F:\Programación II\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.csproj.CoreCompileInputs.cache
+F:\Programación II\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.exe
+F:\Programación II\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.pdb
+F:\Programación II\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.csprojAssemblyReference.cache
+d:\Users\estefania\Desktop\Talle1-BancoLeche-main\Lechematerna2\Lechematerna2\bin\Debug\Lechematerna2.exe.config
+d:\Users\estefania\Desktop\Talle1-BancoLeche-main\Lechematerna2\Lechematerna2\bin\Debug\Lechematerna2.exe
+d:\Users\estefania\Desktop\Talle1-BancoLeche-main\Lechematerna2\Lechematerna2\bin\Debug\Lechematerna2.pdb
+d:\Users\estefania\Desktop\Talle1-BancoLeche-main\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.csproj.AssemblyReference.cache
+d:\Users\estefania\Desktop\Talle1-BancoLeche-main\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.csproj.SuggestedBindingRedirects.cache
+d:\Users\estefania\Desktop\Talle1-BancoLeche-main\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.FrmDatosMadre.resources
+d:\Users\estefania\Desktop\Talle1-BancoLeche-main\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.FrmDatosDonacion.resources
+d:\Users\estefania\Desktop\Talle1-BancoLeche-main\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.FrmListaOpciones.resources
+d:\Users\estefania\Desktop\Talle1-BancoLeche-main\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.FrmIniciarPrograma.resources
+d:\Users\estefania\Desktop\Talle1-BancoLeche-main\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.Properties.Resources.resources
+d:\Users\estefania\Desktop\Talle1-BancoLeche-main\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.csproj.GenerateResource.cache
+d:\Users\estefania\Desktop\Talle1-BancoLeche-main\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.csproj.CoreCompileInputs.cache
+d:\Users\estefania\Desktop\Talle1-BancoLeche-main\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.exe
+d:\Users\estefania\Desktop\Talle1-BancoLeche-main\Lechematerna2\Lechematerna2\obj\Debug\Lechematerna2.pdb
